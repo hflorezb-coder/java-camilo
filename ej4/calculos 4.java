@@ -1,4 +1,4 @@
-package ejercicio4;
+package ej4;
 
 public class Calculos {
 

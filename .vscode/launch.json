@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Ejercicio4",
+            "request": "launch",
+            "mainClass": "Ejercicio4",
+            "projectName": "java-camilo_28148799"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"
